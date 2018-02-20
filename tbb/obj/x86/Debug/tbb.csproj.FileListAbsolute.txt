@@ -1,0 +1,8 @@
+D:\学生课表系统\测试\tbb\tbb\bin\Debug\tbb.exe
+D:\学生课表系统\测试\tbb\tbb\bin\Debug\tbb.pdb
+D:\学生课表系统\测试\tbb\tbb\obj\x86\Debug\tbb.Form1.resources
+D:\学生课表系统\测试\tbb\tbb\obj\x86\Debug\tbb.Properties.Resources.resources
+D:\学生课表系统\测试\tbb\tbb\obj\x86\Debug\tbb.csproj.GenerateResource.Cache
+D:\学生课表系统\测试\tbb\tbb\obj\x86\Debug\tbb.exe
+D:\学生课表系统\测试\tbb\tbb\obj\x86\Debug\tbb.pdb
+D:\学生课表系统\测试\tbb\tbb\obj\x86\Debug\tbb.csprojResolveAssemblyReference.cache
